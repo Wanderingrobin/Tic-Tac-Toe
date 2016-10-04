@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Classes.VideoGames
+namespace Week2Day1HW
+
 {
     class VideoGameSystems
     {
